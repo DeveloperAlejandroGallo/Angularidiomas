@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1cc262b4b27b35ceff2f247bfd8b0c4c2f19f913" datatype="html">
+        <source>Your LOGO</source>
+         <target>El logo de tu empresa</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="idTituloLogin" datatype="html">
+        <source>Please sign in</source>
+        <target>Identificate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">titulo de Bienvenida</note>
+        <note priority="1" from="meaning">pagina de login </note>
+      </trans-unit>
+      <trans-unit id="69b6ac577a19acc39fc0c22342092f327fff2529" datatype="html">
+        <source>Email address</source>
+        <target>Correo electronico</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Email address</note>
+      </trans-unit>
+      <trans-unit id="f4e3dd729024e3f61857841e42fa450965a1a482" datatype="html">
+        <source>Password in</source>
+        <target>ingresa tu clave</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">Password</note>
+      </trans-unit>
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <target>Clave</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">label Password</note>
+      </trans-unit>
+      <trans-unit id="cfc2f436ec2beffb042e7511a73c89c372e86a6c" datatype="html">
+        <source>Register</source>
+        <target>Registrate</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6ddd111adc65ea7a206f01264da2c8a94adfef52" datatype="html">
+        <source>#</source>
+        <target>/es</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="287d3301a32a65a1b31116bda5d3a6463158c42a" datatype="html">
+        <source>Sign in</source>
+          <target>Ingresar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/componentes/login/login.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">Sign in</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
